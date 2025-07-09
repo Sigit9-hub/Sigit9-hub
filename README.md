@@ -1,17 +1,22 @@
-## Connect with me:
+## 🌐 Connect with me
 
-<a href="http://www.youtube.com/@sigitadinugroho7151">
-  <img src="https://img.icons8.com/ios-filled/50/youtube-play.png" width="38" style="margin-right: 12px;" />
+<div align="center">
+
+<a href="http://www.youtube.com/@sigitadinugroho7151" target="_blank">
+  <img src="https://img.icons8.com/ios-filled/50/youtube-play.png" width="40" style="margin: 10px;" title="YouTube"/>
 </a>
-<a href="https://www.instagram.com/sgtadi_?igsh=dnl2aGpmOWl4ZTdv">
-  <img src="https://img.icons8.com/ios-filled/50/instagram-new.png" width="38" style="margin-right: 12px;" />
+<a href="https://www.instagram.com/sgtadi_?igsh=dnl2aGpmOWl4ZTdv" target="_blank">
+  <img src="https://img.icons8.com/ios-filled/50/instagram-new.png" width="40" style="margin: 10px;" title="Instagram"/>
 </a>
-<a href="https://www.linkedin.com/in/sigit-adi-nugroho-bb2600297?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">
-  <img src="https://img.icons8.com/ios-filled/50/linkedin.png" width="38" style="margin-right: 12px;" />
+<a href="https://www.linkedin.com/in/sigit-adi-nugroho-bb2600297?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">
+  <img src="https://img.icons8.com/ios-filled/50/linkedin.png" width="40" style="margin: 10px;" title="LinkedIn"/>
 </a>
-<a href="https://www.tiktok.com/@sgtadi_?_t=ZS-8xhKqE3YU8v&_r=1">
-  <img src="https://img.icons8.com/ios-filled/50/tiktok--v1.png" width="38" />
+<a href="https://www.tiktok.com/@sgtadi_?_t=ZS-8xhKqE3YU8v&_r=1" target="_blank">
+  <img src="https://img.icons8.com/ios-filled/50/tiktok--v1.png" width="40" style="margin: 10px;" title="TikTok"/>
 </a>
+
+</div>
+
 
 
 
