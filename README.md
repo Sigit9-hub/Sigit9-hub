@@ -1,7 +1,5 @@
 ## Connect with me:
 
-## Connect with me:
-
 <a href="http://www.youtube.com/@sigitadinugroho7151">
   <img src="https://img.icons8.com/ios-filled/50/youtube-play.png" width="30" style="margin-right: 10px;" />
 </a>
