@@ -1,17 +1,18 @@
 ## Connect with me:
 
 <a href="http://www.youtube.com/@sigitadinugroho7151">
-  <img src="https://img.icons8.com/ios-filled/50/youtube-play.png" width="30" style="margin-right: 10px;" />
+  <img src="https://img.icons8.com/ios-filled/50/youtube-play.png" width="38" style="margin-right: 12px;" />
 </a>
 <a href="https://www.instagram.com/sgtadi_?igsh=dnl2aGpmOWl4ZTdv">
-  <img src="https://img.icons8.com/ios-filled/50/instagram-new.png" width="30" style="margin-right: 10px;" />
+  <img src="https://img.icons8.com/ios-filled/50/instagram-new.png" width="38" style="margin-right: 12px;" />
 </a>
 <a href="https://www.linkedin.com/in/sigit-adi-nugroho-bb2600297?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">
-  <img src="https://img.icons8.com/ios-filled/50/linkedin.png" width="30" style="margin-right: 10px;" />
+  <img src="https://img.icons8.com/ios-filled/50/linkedin.png" width="38" style="margin-right: 12px;" />
 </a>
 <a href="https://www.tiktok.com/@sgtadi_?_t=ZS-8xhKqE3YU8v&_r=1">
-  <img src="https://img.icons8.com/ios-filled/50/tiktok--v1.png" width="30" />
+  <img src="https://img.icons8.com/ios-filled/50/tiktok--v1.png" width="38" />
 </a>
+
 
 
 <br/><br/>
